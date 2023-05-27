@@ -1,0 +1,15 @@
+{
+    "discordToken": "ODk2Nzk4OTY1MjAxMjQ0MTYw.Gyjdw8.H3LGGtTvf2uijFb3s0Gr5WLS-s3ZxXmdmiycTE",
+    "telegramBotToken": "6171195114:AAEtBVGsrKbGStqui2BEEX1iGJcV0P4mEuo", 
+    "botConfig":[
+        {
+            "Name":"VIP Signals",
+            "channelIds": [
+                "1054893506482667571"
+            ],
+            "telegramChatID": "-1001519000115"
+        }
+
+
+    ]
+}

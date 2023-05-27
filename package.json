@@ -18,6 +18,7 @@
     "fetch": "^1.1.0",
     "node-fetch": "^3.3.0",
     "node-telegram-bot-api": "^0.61.0",
+    "tsc": "^2.0.4",
     "ws": "^8.12.1"
   },
   "devDependencies": {

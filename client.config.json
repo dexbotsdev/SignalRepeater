@@ -1,47 +1,15 @@
 {
-    "discordToken": "ODk2Nzk4OTY1MjAxMjQ0MTYw.GS47Tn.4xhl_GfF3KlY-Q8iyH-URiaF_ugM4xZueZ6RfU",  
-    "telegramBotToken": "6090306785:AAHGt3xtEn3xk6mcvhqStST8qQuQRFTfmP0", 
+    "discordToken": "ODk2Nzk4OTY1MjAxMjQ0MTYw.Gyjdw8.H3LGGtTvf2uijFb3s0Gr5WLS-s3ZxXmdmiycTE",
+    "telegramBotToken": "6171195114:AAEtBVGsrKbGStqui2BEEX1iGJcV0P4mEuo", 
     "botConfig":[
-        {  
-            "Name":"Free",
+        {
+            "Name":"VIP Signals",
             "channelIds": [
-                "1070030226828034189",
-                "1065559735245488158"
+                "1054893506482667571"
             ],
-            "telegramChatID": "-1001616024932"
-        },
-        {  
-            "Name":"Educational",
-            "channelIds": [
-                "1075717405227089951",
-                "1057229442826645504",
-                "1054893193868619897"
-                
-            ],
-            "telegramChatID": "-832776813"
-        },
-        {  
-            "Name":"Standard",
-            "channelIds": [
-                "1054870800005595187",
-                "1054871009917939753",
-                "1054870825364373624",
-                "1054893544025882624",
-                "1054893579446784011" 
-                
-            ],
-            "telegramChatID": "-832776813"
-        },
-        {  
-            "Name":"Premium",
-            "channelIds": [
-                "1054893166035218504",
-                "1054893506482667571",
-                "1054871219721212036" 
-                
-            ],
-            "telegramChatID": "-832776813"
+            "telegramChatID": "-1001519000115"
         }
+
 
     ]
 }
